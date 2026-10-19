@@ -1,11 +1,8 @@
 # Hi, I'm Gin
 
-I build practical tools for studying and everyday workflows, with a focus on local-first apps and browser automation.
-
-## Selected projects
-
-- **[Mistake Manager](https://github.com/Ginchanging/Mistake-manager)** — A local-first app for collecting and reviewing mistakes, with OCR-assisted capture and offline storage. Built with Tauri, React, TypeScript, and Rust.
-- **[sysuLmsAutoPlayer](https://github.com/Ginchanging/sysuLmsAutoPlayer)** — A JavaScript userscript for LMS video playback and course navigation.
+> In the depths of winter, I finally learned that within me there lay an invincible summer.
+>
+> — Albert Camus
 
 ## Tools & languages
 
